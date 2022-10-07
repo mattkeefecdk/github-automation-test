@@ -1,0 +1,12 @@
+name: matt
+age: 39
+address: "my address"
+active: true
+object: {
+  key1: value1, 
+  key2: value2
+}
+array: 
+    - item1
+    - item2
+    - item3
