@@ -1,5 +1,4 @@
 name: Shell Command Workflow
-description: a description
 
 on: [push]
 
