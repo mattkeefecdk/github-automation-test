@@ -1,5 +1,4 @@
-name: Shell Command Workflow
-
+name: Shell Command Hello World Workflow
 on: [push]
 
 jobs: 
@@ -8,7 +7,3 @@ jobs:
     steps: 
       - name: echo a string
         run: echo "Hello World!"
-      - name: multiline script
-        run: |
-          node -v
-          npm -v
